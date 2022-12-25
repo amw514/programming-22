@@ -29,7 +29,7 @@ The course will be open until the end of the year 2022.
 
 ## Lectures
 
-There are no more lectures left this year. The next lectures are given in Fall 2023.
+There are no more lectures left this year. The next lectures will be available in Fall 2023.
 
 Note, that there are no lectures for parts 13 and 14.
 
